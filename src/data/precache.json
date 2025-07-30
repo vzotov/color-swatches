@@ -1,0 +1,317 @@
+[
+  {
+    "h": 0,
+    "name": "Red",
+    "rgb": "rgb(255, 0, 0)",
+    "hex": "#FF0000",
+    "background": "hsl(0,100%,50%)"
+  },
+  {
+    "h": 5,
+    "name": "Scarlet",
+    "rgb": "rgb(255, 21, 0)",
+    "hex": "#FF1500",
+    "background": "hsl(5,100%,50%)"
+  },
+  {
+    "h": 14,
+    "name": "Vermilion",
+    "rgb": "rgb(255, 60, 0)",
+    "hex": "#FF3C00",
+    "background": "hsl(14,100%,50%)"
+  },
+  {
+    "h": 19,
+    "name": "International Orange",
+    "rgb": "rgb(255, 81, 0)",
+    "hex": "#FF5100",
+    "background": "hsl(19,100%,50%)"
+  },
+  {
+    "h": 22,
+    "name": "Blaze Orange",
+    "rgb": "rgb(255, 94, 0)",
+    "hex": "#FF5E00",
+    "background": "hsl(22,100%,50%)"
+  },
+  {
+    "h": 27,
+    "name": "Heat Wave",
+    "rgb": "rgb(255, 115, 0)",
+    "hex": "#FF7300",
+    "background": "hsl(27,100%,50%)"
+  },
+  {
+    "h": 30,
+    "name": "Flush Orange",
+    "rgb": "rgb(255, 128, 0)",
+    "hex": "#FF8000",
+    "background": "hsl(30,100%,50%)"
+  },
+  {
+    "h": 32,
+    "name": "Pizazz",
+    "rgb": "rgb(255, 136, 0)",
+    "hex": "#FF8800",
+    "background": "hsl(32,100%,50%)"
+  },
+  {
+    "h": 36,
+    "name": "Orange Peel",
+    "rgb": "rgb(255, 153, 0)",
+    "hex": "#FF9900",
+    "background": "hsl(36,100%,50%)"
+  },
+  {
+    "h": 39,
+    "name": "Web Orange",
+    "rgb": "rgb(255, 166, 0)",
+    "hex": "#FFA600",
+    "background": "hsl(39,100%,50%)"
+  },
+  {
+    "h": 41,
+    "name": "Yellow Sea",
+    "rgb": "rgb(255, 174, 0)",
+    "hex": "#FFAE00",
+    "background": "hsl(41,100%,50%)"
+  },
+  {
+    "h": 42,
+    "name": "Selective Yellow",
+    "rgb": "rgb(255, 179, 0)",
+    "hex": "#FFB300",
+    "background": "hsl(42,100%,50%)"
+  },
+  {
+    "h": 45,
+    "name": "Amber",
+    "rgb": "rgb(255, 191, 0)",
+    "hex": "#FFBF00",
+    "background": "hsl(45,100%,50%)"
+  },
+  {
+    "h": 47,
+    "name": "Supernova",
+    "rgb": "rgb(255, 200, 0)",
+    "hex": "#FFC800",
+    "background": "hsl(47,100%,50%)"
+  },
+  {
+    "h": 49,
+    "name": "Gold",
+    "rgb": "rgb(255, 208, 0)",
+    "hex": "#FFD000",
+    "background": "hsl(49,100%,50%)"
+  },
+  {
+    "h": 51,
+    "name": "School bus Yellow",
+    "rgb": "rgb(255, 217, 0)",
+    "hex": "#FFD900",
+    "background": "hsl(51,100%,50%)"
+  },
+  {
+    "h": 52,
+    "name": "Sizzling Sunrise",
+    "rgb": "rgb(255, 221, 0)",
+    "hex": "#FFDD00",
+    "background": "hsl(52,100%,50%)"
+  },
+  {
+    "h": 54,
+    "name": "Turbo",
+    "rgb": "rgb(255, 229, 0)",
+    "hex": "#FFE500",
+    "background": "hsl(54,100%,50%)"
+  },
+  {
+    "h": 56,
+    "name": "Yellow Sunshine",
+    "rgb": "rgb(255, 238, 0)",
+    "hex": "#FFEE00",
+    "background": "hsl(56,100%,50%)"
+  },
+  {
+    "h": 60,
+    "name": "Yellow",
+    "rgb": "rgb(255, 255, 0)",
+    "hex": "#FFFF00",
+    "background": "hsl(60,100%,50%)"
+  },
+  {
+    "h": 61,
+    "name": "Lemon Glacier",
+    "rgb": "rgb(251, 255, 0)",
+    "hex": "#FBFF00",
+    "background": "hsl(61,100%,50%)"
+  },
+  {
+    "h": 64,
+    "name": "Chartreuse Yellow",
+    "rgb": "rgb(238, 255, 0)",
+    "hex": "#EEFF00",
+    "background": "hsl(64,100%,50%)"
+  },
+  {
+    "h": 70,
+    "name": "Electric Lime",
+    "rgb": "rgb(212, 255, 0)",
+    "hex": "#D4FF00",
+    "background": "hsl(70,100%,50%)"
+  },
+  {
+    "h": 74,
+    "name": "Lime",
+    "rgb": "rgb(195, 255, 0)",
+    "hex": "#C3FF00",
+    "background": "hsl(74,100%,50%)"
+  },
+  {
+    "h": 84,
+    "name": "Chartreuse",
+    "rgb": "rgb(153, 255, 0)",
+    "hex": "#99FF00",
+    "background": "hsl(84,100%,50%)"
+  },
+  {
+    "h": 94,
+    "name": "Bright Green",
+    "rgb": "rgb(110, 255, 0)",
+    "hex": "#6EFF00",
+    "background": "hsl(94,100%,50%)"
+  },
+  {
+    "h": 101,
+    "name": "Harlequin",
+    "rgb": "rgb(81, 255, 0)",
+    "hex": "#51FF00",
+    "background": "hsl(101,100%,50%)"
+  },
+  {
+    "h": 113,
+    "name": "Green",
+    "rgb": "rgb(30, 255, 0)",
+    "hex": "#1EFF00",
+    "background": "hsl(113,100%,50%)"
+  },
+  {
+    "h": 134,
+    "name": "Malachite",
+    "rgb": "rgb(0, 255, 60)",
+    "hex": "#00FF3C",
+    "background": "hsl(134,100%,50%)"
+  },
+  {
+    "h": 138,
+    "name": "Spring Green",
+    "rgb": "rgb(0, 255, 77)",
+    "hex": "#00FF4D",
+    "background": "hsl(138,100%,50%)"
+  },
+  {
+    "h": 163,
+    "name": "Bright Turquoise",
+    "rgb": "rgb(0, 255, 183)",
+    "hex": "#00FFB7",
+    "background": "hsl(163,100%,50%)"
+  },
+  {
+    "h": 172,
+    "name": "Cyan / Aqua",
+    "rgb": "rgb(0, 255, 221)",
+    "hex": "#00FFDD",
+    "background": "hsl(172,100%,50%)"
+  },
+  {
+    "h": 195,
+    "name": "Cerulean",
+    "rgb": "rgb(0, 191, 255)",
+    "hex": "#00BFFF",
+    "background": "hsl(195,100%,50%)"
+  },
+  {
+    "h": 196,
+    "name": "Dodger Blue",
+    "rgb": "rgb(0, 187, 255)",
+    "hex": "#00BBFF",
+    "background": "hsl(196,100%,50%)"
+  },
+  {
+    "h": 199,
+    "name": "Azure Radiance",
+    "rgb": "rgb(0, 174, 255)",
+    "hex": "#00AEFF",
+    "background": "hsl(199,100%,50%)"
+  },
+  {
+    "h": 214,
+    "name": "Blue Ribbon",
+    "rgb": "rgb(0, 111, 255)",
+    "hex": "#006FFF",
+    "background": "hsl(214,100%,50%)"
+  },
+  {
+    "h": 227,
+    "name": "Canary",
+    "rgb": "rgb(0, 55, 255)",
+    "hex": "#0037FF",
+    "background": "hsl(227,100%,50%)"
+  },
+  {
+    "h": 238,
+    "name": "Blue",
+    "rgb": "rgb(0, 8, 255)",
+    "hex": "#0008FF",
+    "background": "hsl(238,100%,50%)"
+  },
+  {
+    "h": 257,
+    "name": "Electric Violet",
+    "rgb": "rgb(72, 0, 255)",
+    "hex": "#4800FF",
+    "background": "hsl(257,100%,50%)"
+  },
+  {
+    "h": 300,
+    "name": "Magenta / Fuchsia",
+    "rgb": "rgb(255, 0, 255)",
+    "hex": "#FF00FF",
+    "background": "hsl(300,100%,50%)"
+  },
+  {
+    "h": 307,
+    "name": "Purple Pizzazz",
+    "rgb": "rgb(255, 0, 225)",
+    "hex": "#FF00E1",
+    "background": "hsl(307,100%,50%)"
+  },
+  {
+    "h": 318,
+    "name": "Hollywood Cerise",
+    "rgb": "rgb(255, 0, 179)",
+    "hex": "#FF00B3",
+    "background": "hsl(318,100%,50%)"
+  },
+  {
+    "h": 326,
+    "name": "Rose",
+    "rgb": "rgb(255, 0, 144)",
+    "hex": "#FF0090",
+    "background": "hsl(326,100%,50%)"
+  },
+  {
+    "h": 331,
+    "name": "Winter Sky",
+    "rgb": "rgb(255, 0, 123)",
+    "hex": "#FF007B",
+    "background": "hsl(331,100%,50%)"
+  },
+  {
+    "h": 340,
+    "name": "Torch Red",
+    "rgb": "rgb(255, 0, 85)",
+    "hex": "#FF0055",
+    "background": "hsl(340,100%,50%)"
+  }
+]
